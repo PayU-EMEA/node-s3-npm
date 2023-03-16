@@ -30,7 +30,7 @@
     "packagegitconfig": "~1.0.0",
     "packagenpmjson": "~1.0.0",
     "semver": "~1.1.4",
-    "request": "~2.21.0",
+    "request": "~2.88.2",
     "npm": "~1.2.19",
     "aws-credentials": "0.0.1",
     "aws-sdk": "2.120.0"
